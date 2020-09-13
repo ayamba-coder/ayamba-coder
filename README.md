@@ -25,7 +25,7 @@ Hi,I'm [Ayamba!](https://ayamba-coder.github.io/)🙌, a Front-End Web Developer
 - 💬 Ask me about JavaScript, Jekyll, 11ty, Hugo,Emberjs.
 - 📫 How to reach me: takuntohmartin@gmail.com.
 - 😄 Pronouns: EmberLand.
-- ✨ I Also speak French. :) "Hello Monde
+- ✨ I Also speak French. 😄 "Hello Monde
 
 **Languages and Tools:**
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
