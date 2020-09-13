@@ -28,7 +28,22 @@ Hi,I'm [Ayamba!](https://ayamba-coder.github.io/)🙌, a Front-End Web Developer
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
+**Talking about Personal Stuffs:**
 
+- 🔭 I’m currently Intern at WinMoney.
+- 🌱 I’m currently learning VueJs and ReactJs.
+- 👯 Part of Developer Community.
+- 💬 Ask me about anything , Would love to answer them.✌
+- 📫 How to reach me: Any of the Social-Media Platform
+- ⚡ Check out my recent [Blogs](https://fotie.hashnode.dev/)✍🏾
+- 📝[Portfolio](https://fotiemconstant.github.io/)
+- ✨ I Also speak Chinese.
+
+**Community**
+
+- Google Developer Group Yaounde
+- Facebook Developer Circles Yaounde
+- Student Community Ambassador at Openlcassrooms
 
 
 **Languages and Tools:**
