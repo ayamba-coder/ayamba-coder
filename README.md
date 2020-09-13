@@ -29,6 +29,8 @@ Hi,I'm [Ayamba!](https://ayamba-coder.github.io/)🙌, a Front-End Web Developer
 
 **Languages and Tools:**
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/ember-dot-js.svg"></code>
+
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/cd4f6f29ed0f1380ac3e56c3b8fa67f019f0db2f/687474703a2f2f73616368696e63686f7072612e636f6465732f44657669436f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e737667"></code>
 <code>
