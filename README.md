@@ -1,14 +1,14 @@
-### Hello World 👋🏾 It's [Ayamba!](https://ayamba-coder.github.io/)
+### Hello World 👋🏾 It's [Ayamba-coder!](https://ayamba-coder.github.io/)
 
 <br/>
 <a href="https://api.whatsapp.com/send?phone=+237681248724" >
-<img align="left" alt="Fotie Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+<img align="left" alt="ayamba-coder Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <a href="https://www.linkedin.com/in/batey-martin-7490a21b6/">
-<img align="left" alt="Fotie Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="ayamba-coder Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/bate_martin/">
-<img align="left" alt="Fotie Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="ayamba-coder Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
 
@@ -16,7 +16,7 @@
 
 Hi,I'm [Ayamba!](https://ayamba-coder.github.io/)🙌, a Front-End Web Developer,. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌ i am also passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJS (JavaScript, APIs + Markup) and Python.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" alt="ayamba-coder GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on TrackMyLost.
