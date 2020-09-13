@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/fotie_codes">
 <img align="left" alt="Fotie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/fotie-m-constant/">
+<a href="https://www.linkedin.com/in/batey-martin-7490a21b6/">
 <img align="left" alt="Fotie Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/fotiewireless/">
+<a href="https://www.instagram.com/bate_martin/">
 <img align="left" alt="Fotie Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
