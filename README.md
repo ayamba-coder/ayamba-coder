@@ -1,8 +1,6 @@
 ### Hello World 👋🏾 It's [Ayamba!](https://ayamba-coder.github.io/)
 
 <br/>
-<a href="https://facebook.com/bate martin facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fb.svg" />
-</a>
 <a href="https://www.linkedin.com/in/batey-martin-7490a21b6/">
 <img align="left" alt="Fotie Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
