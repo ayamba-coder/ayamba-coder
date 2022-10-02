@@ -14,17 +14,17 @@
 
 <br />
 
-Hi,I'm [Ayamba!](https://ayamba-coder.github.io/)🙌, a Front-End Web Developer,. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌ i am also passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJS (JavaScript, APIs + Markup) and Python.
+Hi,I'm [Ayamba!](https://ayamba-coder.github.io/)🙌, a PHP/Laravel Developer,. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌ i am also passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include PHP/Laravel, ReactJS, VueJS (JavaScript, APIs + Markup.
 
 <img align="right" alt="ayamba-coder GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 **Talking about Personal Stuffs:**
-- 🔭 I’m currently working on TrackMyLost.
-- 🌱 I’m currently learning EmberJs.
+- 🔭 I’m currently working on CMRCARS,MISSINGDOC.
+- 🌱 Lots of personal self evelopment projects.
 - 🤔 I’m looking for help with CodeIgniter,ReactJs.
-- 💬 Ask me about JavaScript, Jekyll, 11ty, Hugo,Emberjs.
+- 💬 Ask me about Laravel,PHP,JavaScript, Jekyll, 11ty, Hugo.
 - 📫 How to reach me: takuntohmartin@gmail.com.
-- 😄 Pronouns: EmberLand.
+- 😄 Pronouns: Laravel For Dumbs.
 - ✨ I Also speak French. 😄 "Hello Monde
 
 **Languages and Tools:**
