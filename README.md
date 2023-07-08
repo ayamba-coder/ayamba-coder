@@ -1,4 +1,4 @@
-### Hello World 👋🏾 It's [Ayamba-coder!](https://ayamba-coder.github.io/)
+### Hello World 👋🏾 I'm [Darius!]
 
 <br/>
 <a href="https://api.whatsapp.com/send?phone=+237681248724" >
@@ -14,17 +14,17 @@
 
 <br />
 
-Hi,I'm [Ayamba!](https://ayamba-coder.github.io/)🙌, a PHP/Laravel Developer,. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌ i am also passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include PHP/Laravel, ReactJS, VueJS (JavaScript, APIs + Markup.
+Hi,I'm [Darius!]🙌.I love getting involved in Competitive Programming and Problem Solving.❤✌ i am also passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include PHP/Laravel, ReactJS.
 
 <img align="right" alt="ayamba-coder GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 **Talking about Personal Stuffs:**
-- 🔭 I’m currently working on CMRCARS,MISSINGDOC.
+- 🔭 My personal projects CMRCARS(Car Auction platform),MISSINGDOC(Lost and Found app)
 - 🌱 Lots of personal self evelopment projects.
-- 🤔 I’m looking for help with CodeIgniter,ReactJs.
-- 💬 Ask me about Laravel,PHP,JavaScript, Jekyll, 11ty, Hugo.
+- 🤔 I’m interrested in Javascript,ReactJs.
+- 💬 Also Ask me about Laravel,PHP.
 - 📫 How to reach me: takuntohmartin@gmail.com.
-- 😄 Pronouns: Laravel For Dumbs.
+- 😄 Check my personal projects from beginner to the level in which i am now
 - ✨ I Also speak French. 😄 "Hello Monde
 
 **Languages and Tools:**
