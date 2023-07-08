@@ -20,6 +20,7 @@ Hi,I'm [Darius!]🙌.I love getting involved in Competitive Programming and Prob
 
 **Talking about Personal Stuffs:**
 - 🔭 My personal projects CMRCARS(Car Auction platform),MISSINGDOC(Lost and Found app)
+- Don't take me too serious,am no expert but try me :)
 - 🌱 Lots of personal self evelopment projects.
 - 🤔 I’m interrested in HTML,CSS and Javascript.
 - Currently learning ReactJs.
