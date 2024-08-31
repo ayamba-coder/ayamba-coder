@@ -22,9 +22,8 @@ Hi,I'm [Darius!]🙌.I love getting involved in Competitive Programming and Prob
 - 🔭 My personal projects CMRCARS(Car Auction platform),MISSINGDOC(Lost and Found app)
 - Don't take me too serious,am no expert but try me :)
 - 🌱 Lots of personal self evelopment projects.
-- 🤔 I’m interrested in HTML,CSS and Javascript.
-- Currently learning ReactJs.
-- 💬 Also Ask me about Laravel,PHP.
+- 🤔 I’m interrested in HTML,CSS and Javascript,Reactjs,Dart,Flutter.
+- Currently learning Devops.
 - 📫 How to reach me: takuntohmartin@gmail.com.
 - 😄 Check my personal projects from beginner to the level in which i am now
 - ✨ I Also speak French. 😄 "Hello Monde"
