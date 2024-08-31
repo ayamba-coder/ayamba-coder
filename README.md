@@ -14,7 +14,7 @@
 
 <br />
 
-Hi,I'm [Darius!]🙌.I love getting involved in Competitive Programming and Problem Solving.❤✌ i am also passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include PHP/Laravel, ReactJS.
+Hi,I'm [Darius!]🙌.I love getting involved in Competitive Programming and Problem Solving.❤✌ i am also passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Flutter, ReactJS.
 
 <img align="right" alt="ayamba-coder GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
