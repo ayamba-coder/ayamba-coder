@@ -39,5 +39,3 @@ Hi,I'm [Batey!]🙌.I love getting involved in Competitive Programming and Probl
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/eleventy.svg"></code>
-
-![ayamba-coder's github stats](https://github-readme-stats.vercel.app/api?username=ayamba-coder&show_icons=true&hide_border=true)
