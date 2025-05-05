@@ -1,7 +1,7 @@
-### Hello World 👋🏾 I'm [Darius!]
+### Hello World 👋🏾 I'm [Batey!]
 
 <br/>
-<a href="https://api.whatsapp.com/send?phone=+237681248724" >
+<a href="https://api.whatsapp.com/send?phone=+237670397658" >
 <img align="left" alt="ayamba-coder Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <a href="https://twitter.com/DariusCoder">
@@ -14,7 +14,7 @@
 
 <br />
 
-Hi,I'm [Darius!]🙌.I love getting involved in Competitive Programming and Problem Solving.❤✌ i am also passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Flutter, ReactJS.
+Hi,I'm [Batey!]🙌.I love getting involved in Competitive Programming and Problem Solving.❤✌ i am also passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Flutter, ReactJS.
 
 <img align="right" alt="ayamba-coder GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
@@ -22,8 +22,8 @@ Hi,I'm [Darius!]🙌.I love getting involved in Competitive Programming and Prob
 - 🔭 My personal projects CMRCARS(Car Auction platform),MISSINGDOC(Lost and Found app)
 - Don't take me too serious,am no expert but try me :)
 - 🌱 Lots of personal self evelopment projects.
-- 🤔 I’m interrested in HTML,CSS and Javascript,Reactjs,Dart,Flutter.
-- Currently learning Devops.
+- 🤔 I’m interrested in HTML,CSS and Javascript,Reactjs,Security.
+- Currently learning Devops and rounding as an IT security student.
 - 📫 How to reach me: takuntohmartin@gmail.com.
 - 😄 Check my personal projects from beginner to the level in which i am now
 - ✨ I Also speak French. 😄 "Hello Monde"
