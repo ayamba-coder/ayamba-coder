@@ -14,7 +14,7 @@
 
 <br />
 
-Hi,I'm [Batey!]🙌.I love getting involved in Competitive Programming and Problem Solving.❤✌ i am also passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Flutter, ReactJS.
+Hi,I'm [Batey!]🙌.I love getting involved in Competitive Programming and Problem Solving.❤✌ i am also passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with iptables,libvirt,kvm,Reactjs.
 
 <img align="right" alt="ayamba-coder GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
@@ -23,7 +23,8 @@ Hi,I'm [Batey!]🙌.I love getting involved in Competitive Programming and Probl
 - Don't take me too serious,am no expert but try me :)
 - 🌱 Lots of personal self evelopment projects.
 - 🤔 I’m interrested in HTML,CSS and Javascript,Reactjs,Security.
-- Currently learning Devops and rounding as an IT security student.
+- Currently learning Devops and rounding my bachelors in IT security.
+- I aspire to be a great system and network administrator.
 - 📫 How to reach me: takuntohmartin@gmail.com.
 - 😄 Check my personal projects from beginner to the level in which i am now
 - ✨ I Also speak French. 😄 "Hello Monde"
